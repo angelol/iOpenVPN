@@ -1,0 +1,86 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4 (0x4)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=AT, ST=VIE, L=Vienna, O=Niwa, CN=niwa-server/emailAddress=office@niwa.at
+        Validity
+            Not Before: Jan  9 16:36:20 2006 GMT
+            Not After : Jan  7 16:36:20 2016 GMT
+        Subject: C=AT, ST=VIE, O=Niwa, CN=angelo/emailAddress=office@niwa.at
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:b2:41:a1:3b:7a:f8:84:b1:eb:ba:f8:02:45:19:
+                    3e:18:9d:ba:42:6d:b8:5b:20:04:0e:d7:a9:4c:22:
+                    07:a0:81:2b:e1:c1:b9:e1:24:b0:15:26:54:44:5d:
+                    26:dc:c1:27:48:3f:aa:50:e5:74:ab:54:16:0d:1d:
+                    5e:17:77:34:f8:43:fa:49:fc:e6:0a:28:91:91:ed:
+                    95:7b:5a:f4:6b:93:d2:4e:df:6c:00:fb:65:d9:08:
+                    31:1c:dd:11:46:fe:81:d4:52:5c:78:19:59:b9:2d:
+                    90:e0:0c:d6:ca:e1:84:6c:4e:60:16:e8:f1:78:21:
+                    f3:84:a3:a2:91:51:46:45:a3:41:59:c6:53:33:4c:
+                    e3:4f:06:0f:05:31:ee:9d:53:1d:f8:e5:d7:cd:5d:
+                    6c:46:54:19:c5:3e:12:f2:b3:25:93:56:5b:5c:6e:
+                    25:73:b7:e3:8f:fd:f6:1c:c8:bf:00:44:32:ac:c4:
+                    8c:03:31:03:5f:f3:bb:bc:0a:d4:d2:74:04:aa:27:
+                    f3:f2:26:07:39:01:a0:5b:19:8f:94:e0:9e:fb:78:
+                    bb:e2:9a:86:f1:fd:5f:fc:ec:be:e3:6c:75:7c:a0:
+                    51:cb:83:50:46:2d:fd:b1:65:2c:b3:2a:28:62:58:
+                    9e:ca:34:6e:c4:5f:5b:c6:4f:24:87:a9:3a:a3:84:
+                    59:09
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                4B:C4:5D:1D:20:BE:0B:C3:98:DC:7A:1F:36:3D:40:9F:D4:79:0F:CE
+            X509v3 Authority Key Identifier: 
+                keyid:E8:2C:7B:6B:A0:54:E4:9F:5E:6D:D6:88:B8:4A:D4:21:45:50:06:F1
+                DirName:/C=AT/ST=VIE/L=Vienna/O=Niwa/CN=niwa-server/emailAddress=office@niwa.at
+                serial:00
+
+    Signature Algorithm: md5WithRSAEncryption
+        63:64:6e:c7:6b:1d:c6:05:66:44:e4:bb:eb:19:38:66:15:e4:
+        2f:86:00:4a:2f:0a:7e:f4:32:bf:e5:88:56:92:a3:21:59:c9:
+        ec:77:59:f5:4a:55:51:ba:7a:7b:b9:1e:02:22:04:ae:c1:33:
+        79:3c:23:25:eb:02:b5:da:bb:81:55:1e:e4:0b:1c:ca:be:2f:
+        f0:d1:66:50:99:db:36:90:07:5d:0b:00:52:4e:14:2f:8b:34:
+        fe:56:60:e7:80:30:2f:d9:0c:01:2d:94:cd:0e:96:dd:ff:88:
+        85:fe:f7:c2:b9:06:00:06:7d:01:57:c5:fb:bb:2d:4c:6f:ae:
+        72:fa:7f:1a:ac:a7:96:96:99:b8:dd:c7:b9:74:a3:79:a5:5b:
+        d5:e8:4c:c8:c9:8d:d9:00:05:1b:d0:13:65:d2:aa:f1:e3:c3:
+        b3:c9:78:2e:8c:c0:82:be:80:c2:d1:83:15:eb:73:c9:6f:00:
+        ff:4a:11:bb:b5:9b:73:f6:bf:4a:00:df:cf:94:75:74:f3:e8:
+        bf:59:21:52:d2:36:39:df:f8:c9:d8:fa:eb:a7:dd:7b:aa:0e:
+        07:9c:c6:78:64:97:ca:7e:76:a0:3b:36:de:57:b2:18:16:b9:
+        9f:ae:83:cf:b7:6e:2c:3f:be:23:4a:9b:39:37:5c:5e:89:9a:
+        9a:08:a0:40
+-----BEGIN CERTIFICATE-----
+MIIEPjCCAyagAwIBAgIBBDANBgkqhkiG9w0BAQQFADBwMQswCQYDVQQGEwJBVDEM
+MAoGA1UECBMDVklFMQ8wDQYDVQQHEwZWaWVubmExDTALBgNVBAoTBE5pd2ExFDAS
+BgNVBAMTC25pd2Etc2VydmVyMR0wGwYJKoZIhvcNAQkBFg5vZmZpY2VAbml3YS5h
+dDAeFw0wNjAxMDkxNjM2MjBaFw0xNjAxMDcxNjM2MjBaMFoxCzAJBgNVBAYTAkFU
+MQwwCgYDVQQIEwNWSUUxDTALBgNVBAoTBE5pd2ExDzANBgNVBAMTBmFuZ2VsbzEd
+MBsGCSqGSIb3DQEJARYOb2ZmaWNlQG5pd2EuYXQwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQCyQaE7eviEseu6+AJFGT4YnbpCbbhbIAQO16lMIgeggSvh
+wbnhJLAVJlREXSbcwSdIP6pQ5XSrVBYNHV4XdzT4Q/pJ/OYKKJGR7ZV7WvRrk9JO
+32wA+2XZCDEc3RFG/oHUUlx4GVm5LZDgDNbK4YRsTmAW6PF4IfOEo6KRUUZFo0FZ
+xlMzTONPBg8FMe6dUx345dfNXWxGVBnFPhLysyWTVltcbiVzt+OP/fYcyL8ARDKs
+xIwDMQNf87u8CtTSdASqJ/PyJgc5AaBbGY+U4J77eLvimobx/V/87L7jbHV8oFHL
+g1BGLf2xZSyzKihiWJ7KNG7EX1vGTySHqTqjhFkJAgMBAAGjgfgwgfUwCQYDVR0T
+BAIwADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5lcmF0ZWQgQ2VydGlmaWNh
+dGUwHQYDVR0OBBYEFEvEXR0gvgvDmNx6HzY9QJ/UeQ/OMIGaBgNVHSMEgZIwgY+A
+FOgse2ugVOSfXm3WiLhK1CFFUAbxoXSkcjBwMQswCQYDVQQGEwJBVDEMMAoGA1UE
+CBMDVklFMQ8wDQYDVQQHEwZWaWVubmExDTALBgNVBAoTBE5pd2ExFDASBgNVBAMT
+C25pd2Etc2VydmVyMR0wGwYJKoZIhvcNAQkBFg5vZmZpY2VAbml3YS5hdIIBADAN
+BgkqhkiG9w0BAQQFAAOCAQEAY2Rux2sdxgVmROS76xk4ZhXkL4YASi8KfvQyv+WI
+VpKjIVnJ7HdZ9UpVUbp6e7keAiIErsEzeTwjJesCtdq7gVUe5Ascyr4v8NFmUJnb
+NpAHXQsAUk4UL4s0/lZg54AwL9kMAS2UzQ6W3f+Ihf73wrkGAAZ9AVfF+7stTG+u
+cvp/GqynlpaZuN3HuXSjeaVb1ehMyMmN2QAFG9ATZdKq8ePDs8l4LozAgr6AwtGD
+FetzyW8A/0oRu7Wbc/a/SgDfz5R1dPPov1khUtI2Od/4ydj666fde6oOB5zGeGSX
+yn52oDs23leyGBa5n66Dz7duLD++I0qbOTdcXomamgigQA==
+-----END CERTIFICATE-----

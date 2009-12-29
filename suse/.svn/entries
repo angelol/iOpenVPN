@@ -1,0 +1,40 @@
+8
+
+dir
+1
+svn://tunnelblick.net/lovpn/suse
+svn://tunnelblick.net/lovpn
+
+
+
+2007-11-16T02:32:49.700948Z
+1
+al
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba93d3ca-eb93-dc11-a779-001143ce2302
+
+openvpn.init
+file
+
+
+
+
+2007-11-16T02:30:01.000000Z
+957816251ad61942305632ba85281f55
+2007-11-16T02:32:49.700948Z
+1
+al
+

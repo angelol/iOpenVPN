@@ -1,0 +1,41 @@
+8
+
+dir
+1
+svn://tunnelblick.net/lovpn/tap-win32/i386
+svn://tunnelblick.net/lovpn
+
+
+
+2007-11-16T02:32:49.700948Z
+1
+al
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba93d3ca-eb93-dc11-a779-001143ce2302
+
+OemWin2k.inf.in
+file
+
+
+
+
+2007-11-16T02:30:02.000000Z
+6fa571d82536f2d0f1e941374f4f4e01
+2007-11-16T02:32:49.700948Z
+1
+al
+has-props
+

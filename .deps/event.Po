@@ -1,0 +1,212 @@
+event.o event.o: event.c config.h syshead.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/include/i386/_types.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/machine/endian.h \
+  /usr/include/i386/endian.h /usr/include/sys/_endian.h \
+  /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  /usr/include/sys/wait.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/machine/_structs.h \
+  /usr/include/mach/i386/_structs.h /usr/include/sys/resource.h \
+  /usr/include/sys/time.h /usr/include/time.h /usr/include/_types.h \
+  /usr/include/_structs.h /usr/include/sys/_select.h \
+  /usr/include/sys/socket.h /usr/include/machine/_param.h \
+  /usr/include/i386/_param.h /usr/include/sys/ioctl.h \
+  /usr/include/sys/ttycom.h /usr/include/sys/ioccom.h \
+  /usr/include/sys/filio.h /usr/include/sys/sockio.h \
+  /usr/include/sys/stat.h /usr/include/fcntl.h /usr/include/sys/fcntl.h \
+  /usr/include/sys/file.h /usr/include/sys/unistd.h \
+  /usr/include/sys/queue.h /usr/include/stdlib.h /usr/include/available.h \
+  /usr/include/alloca.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdint.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdarg.h \
+  /usr/include/unistd.h /usr/include/sys/select.h /usr/include/signal.h \
+  /usr/include/stdio.h /usr/include/ctype.h /usr/include/runetype.h \
+  /usr/include/errno.h /usr/include/sys/errno.h /usr/include/err.h \
+  /usr/include/syslog.h /usr/include/sys/syslog.h /usr/include/pwd.h \
+  /usr/include/grp.h /usr/include/dlfcn.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdbool.h \
+  /usr/include/AvailabilityMacros.h /usr/include/netdb.h \
+  /usr/include/netinet/in.h /usr/include/netinet6/in6.h \
+  /usr/include/sys/poll.h /usr/include/string.h /usr/include/arpa/inet.h \
+  /usr/include/net/if.h /usr/include/net/if_var.h /usr/include/sys/mman.h \
+  buffer.h basic.h thread.h common.h error.h errlevel.h integer.h event.h \
+  win32.h sig.h status.h interval.h otime.h perf.h memdbg.h
+
+config.h:
+
+syshead.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/sys/appleapiopts.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/i386/types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/i386/endian.h:
+
+/usr/include/sys/_endian.h:
+
+/usr/include/libkern/_OSByteOrder.h:
+
+/usr/include/libkern/i386/_OSByteOrder.h:
+
+/usr/include/sys/_structs.h:
+
+/usr/include/sys/wait.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/machine/signal.h:
+
+/usr/include/i386/signal.h:
+
+/usr/include/i386/_structs.h:
+
+/usr/include/machine/_structs.h:
+
+/usr/include/mach/i386/_structs.h:
+
+/usr/include/sys/resource.h:
+
+/usr/include/sys/time.h:
+
+/usr/include/time.h:
+
+/usr/include/_types.h:
+
+/usr/include/_structs.h:
+
+/usr/include/sys/_select.h:
+
+/usr/include/sys/socket.h:
+
+/usr/include/machine/_param.h:
+
+/usr/include/i386/_param.h:
+
+/usr/include/sys/ioctl.h:
+
+/usr/include/sys/ttycom.h:
+
+/usr/include/sys/ioccom.h:
+
+/usr/include/sys/filio.h:
+
+/usr/include/sys/sockio.h:
+
+/usr/include/sys/stat.h:
+
+/usr/include/fcntl.h:
+
+/usr/include/sys/fcntl.h:
+
+/usr/include/sys/file.h:
+
+/usr/include/sys/unistd.h:
+
+/usr/include/sys/queue.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/available.h:
+
+/usr/include/alloca.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdint.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdarg.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/signal.h:
+
+/usr/include/stdio.h:
+
+/usr/include/ctype.h:
+
+/usr/include/runetype.h:
+
+/usr/include/errno.h:
+
+/usr/include/sys/errno.h:
+
+/usr/include/err.h:
+
+/usr/include/syslog.h:
+
+/usr/include/sys/syslog.h:
+
+/usr/include/pwd.h:
+
+/usr/include/grp.h:
+
+/usr/include/dlfcn.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdbool.h:
+
+/usr/include/AvailabilityMacros.h:
+
+/usr/include/netdb.h:
+
+/usr/include/netinet/in.h:
+
+/usr/include/netinet6/in6.h:
+
+/usr/include/sys/poll.h:
+
+/usr/include/string.h:
+
+/usr/include/arpa/inet.h:
+
+/usr/include/net/if.h:
+
+/usr/include/net/if_var.h:
+
+/usr/include/sys/mman.h:
+
+buffer.h:
+
+basic.h:
+
+thread.h:
+
+common.h:
+
+error.h:
+
+errlevel.h:
+
+integer.h:
+
+event.h:
+
+win32.h:
+
+sig.h:
+
+status.h:
+
+interval.h:
+
+otime.h:
+
+perf.h:
+
+memdbg.h:

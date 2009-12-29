@@ -1,0 +1,58 @@
+8
+
+dir
+1
+svn://tunnelblick.net/lovpn/contrib
+svn://tunnelblick.net/lovpn
+
+
+
+2007-11-16T02:32:49.700948Z
+1
+al
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba93d3ca-eb93-dc11-a779-001143ce2302
+
+multilevel-init.patch
+file
+
+
+
+
+2007-11-16T02:30:01.000000Z
+3cb8136e8128b8a70e44d146b6d2c499
+2007-11-16T02:32:49.700948Z
+1
+al
+
+openvpn-fwmarkroute-1.00
+dir
+
+pull-resolv-conf
+dir
+
+README
+file
+
+
+
+
+2007-11-16T02:30:01.000000Z
+860d8703464bebceb9cf5e77c0bbf40e
+2007-11-16T02:32:49.700948Z
+1
+al
+

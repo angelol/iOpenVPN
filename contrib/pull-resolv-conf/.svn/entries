@@ -1,0 +1,52 @@
+8
+
+dir
+1
+svn://tunnelblick.net/lovpn/contrib/pull-resolv-conf
+svn://tunnelblick.net/lovpn
+
+
+
+2007-11-16T02:32:49.700948Z
+1
+al
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba93d3ca-eb93-dc11-a779-001143ce2302
+
+client.up
+file
+
+
+
+
+2007-11-16T02:30:01.000000Z
+253b5b71c91a16cc267f73b99da269e5
+2007-11-16T02:32:49.700948Z
+1
+al
+
+client.down
+file
+
+
+
+
+2007-11-16T02:30:01.000000Z
+01640b1f015900a755ccd5540728e9cc
+2007-11-16T02:32:49.700948Z
+1
+al
+

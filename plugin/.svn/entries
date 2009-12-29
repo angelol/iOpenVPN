@@ -1,0 +1,49 @@
+8
+
+dir
+1
+svn://tunnelblick.net/lovpn/plugin
+svn://tunnelblick.net/lovpn
+
+
+
+2007-11-16T02:32:49.700948Z
+1
+al
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba93d3ca-eb93-dc11-a779-001143ce2302
+
+down-root
+dir
+
+auth-pam
+dir
+
+README
+file
+
+
+
+
+2007-11-16T02:30:00.000000Z
+fac06c9386f35c93b8ffd4d9a9fea509
+2007-11-16T02:32:49.700948Z
+1
+al
+
+examples
+dir
+

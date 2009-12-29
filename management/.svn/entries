@@ -1,0 +1,40 @@
+8
+
+dir
+1
+svn://tunnelblick.net/lovpn/management
+svn://tunnelblick.net/lovpn
+
+
+
+2007-11-16T02:32:49.700948Z
+1
+al
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ba93d3ca-eb93-dc11-a779-001143ce2302
+
+management-notes.txt
+file
+
+
+
+
+2007-11-16T02:30:01.000000Z
+2c17cbfb02ec87ff34e431db15e10125
+2007-11-16T02:32:49.700948Z
+1
+al
+
